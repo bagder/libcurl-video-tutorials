@@ -34,3 +34,7 @@ All code will be written using C. A reasonably modern libcurl version is assumed
 12. do two transfers in parallel with the multi API
 
 13. do many parallel transfers and add new ones before all the existing are done
+
+## Request episodes!
+
+If you have additional ideas or thoughts of more topics and angles to cover, please file an issue and explain!
