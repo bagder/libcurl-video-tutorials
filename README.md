@@ -1,11 +1,14 @@
 # libcurl video tutorials
 
-This is a planned series of video tutorials on how to write Internet applications using libcurl.
+This is a planned series of video tutorials on how to write Internet
+applications using libcurl.
 
-Each episode has a title and planned goal and purpose. The source code used and discussed in each episode is made available here
-as well as extra links and useful materials.
+Each episode has a title and planned goal and purpose. The source code used
+and discussed in each episode is made available here as well as extra links
+and useful materials.
 
-All code will be written using C. A reasonably modern libcurl version is assumed.
+All code will be written using C. A reasonably modern libcurl version is
+assumed.
 
 ## Episodes
 
@@ -23,6 +26,10 @@ All code will be written using C. A reasonably modern libcurl version is assumed
 
 7. HTTP PUT example - with read callback
 
+8. Modifying the HTTP request headers
+
+8. Retrieving the HTTP response code after a successful transfer
+
 8. multi-part formpost
 
 9. use cookies and login to a site with POST
@@ -34,6 +41,13 @@ All code will be written using C. A reasonably modern libcurl version is assumed
 12. do two transfers in parallel with the multi API
 
 13. do many parallel transfers and add new ones before all the existing are done
+
+## Concept
+
+Each episode should be short and focused on the topic only.
+
+Episodes will be named, not numbered, so that we can insert new ones in
+between older ones if we think that suits the narrative.
 
 ## Request episodes!
 
