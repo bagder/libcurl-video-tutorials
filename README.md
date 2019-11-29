@@ -19,6 +19,8 @@ Ideally, each episode will be no longer than 10-15 minutes.
 
 1. simplest possible HTTPS client code
 
+2. certificate verification details for HTTPS clients
+
 2. add write callback
 
 3. make the client download HTTP and FTP too
