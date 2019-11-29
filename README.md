@@ -1,7 +1,8 @@
 # libcurl video tutorials
 
 This is a planned series of video tutorials on how to write Internet
-applications using libcurl.
+applications using libcurl. With [Daniel Stenberg](https://danie.haxx.se/),
+founder of lead developer of the curl project.
 
 Each episode has a title and planned goal and purpose. The source code used
 and discussed in each episode is made available here as well as extra links
@@ -10,9 +11,11 @@ and useful materials.
 All code will be written using C. A reasonably modern libcurl version is
 assumed.
 
+Ideally, each episode will be no longer than 10-15 minutes.
+
 ## Episodes
 
-1. setup a makefile that builds our code (using Linux and gcc)
+1. [setup](setup/) a makefile that builds our code (using Linux and gcc)
 
 1. simplest possible HTTPS client code
 
