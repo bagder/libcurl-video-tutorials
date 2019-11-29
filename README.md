@@ -51,4 +51,4 @@ between older ones if we think that suits the narrative.
 
 ## Request episodes!
 
-If you have additional ideas or thoughts of more topics and angles to cover, please file an issue and explain!
+If you have additional ideas or thoughts of more topics and angles to cover, please [file an issue](https://github.com/bagder/libcurl-video-tutorials/issues) and explain!
