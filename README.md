@@ -17,7 +17,7 @@ Ideally, each episode will be no longer than 10-15 minutes.
 
 1. [setup](setup/) a makefile that builds our code (using Linux and gcc)
 
-1. simplest possible HTTPS client code
+1. [simplest](simplest/) possible HTTPS client code
 
 2. certificate verification details for HTTPS clients
 
