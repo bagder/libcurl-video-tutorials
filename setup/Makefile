@@ -1,11 +1,11 @@
 CC = `curl-config --cc`
 LIBS = `curl-config --libs`
 
-sample: sample.o
+mycurlapp: mycurlapp.o
 	$(CC) -g -o $@ $< $(LIBS)
 
-sample.o: sample.c
-	$(CC) $(CFLAGS) -g -c $<
+mycurlapp.o: mycurlapp.c
+	$(CC) -g -c $<
 
 clean:
-	rm -f sample.o sample
+	rm -f mycurlapp.o mycurlapp
