@@ -1,3 +1,5 @@
+[table of contents](../) [next: simplest](../simplest/)
+
 # setup a makefile that builds our code
 
 Using Linux and gcc, we create a [Makefile](Makefile) and a first C program
@@ -41,7 +43,7 @@ The *output* called `mycurlapp` depends on the files on the right side of the
 colon. There's only one file there: `mycurlapp.o`. If the `.o` file is newer than
 `mycurlapp`, then the following command will be executed:
 
-        $(CC) -g -o $@ $< $(LIBS)
+    $(CC) -g -o $@ $< $(LIBS)
 
 The CC variable (that is the compiler) is used and a command line is created
 with a few options like `-g` and `-o`. `$@` is an automatic variable that
@@ -57,11 +59,11 @@ In a typical machine, the command line that runs is thus something like:
 The object file depends on the C file. If the object file is missing or if the
 C file is newer than the object file, run the following command:
 
-        $(CC) -g -c $<
+    $(CC) -g -c $<
 
 Again, `$<` holds the names on the ride side of the colon in the line above,
 which one is `mycurlapp.c` which makes this run something like: `cc -g -c
-sameple.c`. The `-c` flag to gcc makes it produce the object file from the C
+mycurlapp.c`. The `-c` flag to gcc makes it produce the object file from the C
 file.
 
     clean:
