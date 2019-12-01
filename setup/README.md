@@ -1,4 +1,4 @@
-[table of contents](../) [next: simplest](../simplest/)
+[table of contents](../) [next: global](../global/)
 
 # setup a makefile that builds our code
 
