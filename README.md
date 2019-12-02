@@ -1,7 +1,7 @@
 # libcurl video tutorials
 
 This is a planned series of video tutorials on how to write Internet
-applications using libcurl. With [Daniel Stenberg](https://danie.haxx.se/),
+applications using libcurl. With [Daniel Stenberg](https://daniel.haxx.se/),
 founder of lead developer of the curl project.
 
 Each episode has a title and planned goal and purpose. The source code used
