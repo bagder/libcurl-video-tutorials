@@ -1,5 +1,9 @@
 [prev: setup](../setup/) [table of contents](../) [next: simplest](../simplest/)
 
+# Video
+
+[Youtube: libcurl video tutorial: global](https://youtu.be/X3bq2uf0OEU)
+
 # global init and cleanup
 
 Before any libcurl functions are invoked, you should call
