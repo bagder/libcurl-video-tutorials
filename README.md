@@ -23,6 +23,8 @@ Ideally, each episode will be no longer than 10-15 minutes.
 
 2. add write callback
 
+3. CURLOPT_VERBOSE
+
 3. make the client download HTTP and FTP too
 
 2. certificate verification details for HTTPS clients
