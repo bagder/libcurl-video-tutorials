@@ -6,7 +6,8 @@
 
 # Use a write callback
 
-(This example code is inspired by the [getinmemory.c] example.)
+(This example code is inspired by the
+[getinmemory.c](https://curl.haxx.se/libcurl/c/getinmemory.html) example.)
 
 By default libcurl sends received data to stdout, which is rarely what a user
 wants to do. Instead, applications typically sets up a "write callback" with
