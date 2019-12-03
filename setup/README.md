@@ -1,5 +1,9 @@
 [table of contents](../) [next: global](../global/)
 
+# Video
+
+[Youtube: libcurl video tutorial: setup](https://youtu.be/DVR8N9ob_ZY)
+
 # setup a makefile that builds our code
 
 Using Linux and gcc, we create a [Makefile](Makefile) and a first C program
