@@ -19,6 +19,8 @@
  * KIND, either express or implied.
  *
  ***************************************************************************/
+#include <curl/curl.h>
+
 int main(void)
 {
   CURL *curl_handle;
