@@ -1,5 +1,9 @@
 [prev: setup](../setup/) [table of contents](../) [next: write callback](../write-callback/)
 
+# Video
+
+[Youtube: libcurl video tutorial: simplest](https://youtu.be/Uha3JGPRIQs)
+
 # simplest possible HTTPS client code
 
 We go through the basics of the libcurl API and concepts and create [the
