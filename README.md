@@ -21,7 +21,7 @@ Ideally, each episode will be no longer than 10-15 minutes.
 
 1. [simplest](simplest/) possible HTTPS client code
 
-2. add write callback
+2. [receive data](receive-data/) by using a write callback
 
 3. CURLOPT_VERBOSE
 

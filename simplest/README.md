@@ -1,4 +1,4 @@
-[prev: setup](../setup/) [table of contents](../) [next: write callback](../write-callback/)
+[prev: setup](../setup/) [table of contents](../) [next: receive data](../receive-data/)
 
 # Video
 
