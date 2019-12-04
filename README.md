@@ -1,17 +1,16 @@
 # libcurl video tutorials
 
-This is a planned series of video tutorials on how to write Internet
-applications using libcurl. With [Daniel Stenberg](https://daniel.haxx.se/),
-founder and lead developer of the curl project.
+A video tutorials series on how to write Internet applications using libcurl
+with [Daniel Stenberg](https://daniel.haxx.se/), founder and lead developer of
+the curl project.
 
-Each episode has a title and planned goal and purpose. The source code used
-and discussed in each episode is made available here as well as extra links
-and useful materials.
+Each episode has a title and focused purpose. The source code used and
+discussed in each episode is made available here as well as extra links and
+useful materials.
 
-All code will be written using C. A reasonably modern libcurl version is
-assumed.
+All code is written using C. A reasonably modern libcurl version is assumed.
 
-Ideally, each episode will be no longer than 10-15 minutes.
+Episode are 10-15 minutes long and only occasionally longer.
 
 ## Episodes
 
