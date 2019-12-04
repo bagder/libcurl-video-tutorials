@@ -2,7 +2,7 @@
 
 # Video
 
-[Youtube: libcurl video tutorial: verbose]()
+[Youtube: libcurl video tutorial: verbose](https://youtu.be/dSEd3i5X_gI)
 
 # Set `CURLOPT_VERBOSE` to get more knowledge
 

@@ -1,4 +1,4 @@
-[prev: simplest](../simplest/) [table of contents](../) next: CURLOPT_VERBOSE
+[prev: simplest](../simplest/) [table of contents](../) next: [verbose](../verbose/)
 
 # Video
 
