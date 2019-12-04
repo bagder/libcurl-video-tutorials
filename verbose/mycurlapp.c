@@ -27,6 +27,7 @@ int main(void)
 {
   CURL *curl;
   CURLcode res;
+  char error[CURL_ERROR_SIZE];
 
   curl_global_init(CURL_GLOBAL_ALL);
 
@@ -35,13 +36,14 @@ int main(void)
     curl_easy_setopt(curl, CURLOPT_URL, "https://ww.example.com");
 
     curl_easy_setopt(curl, CURLOPT_VERBOSE, 1L);
+    curl_easy_setopt(curl, CURLOPT_ERRORBUFFER, error);
+    curl_easy_setopt(curl, CURLOPT_HEADER, 0L);
 
     /* Perform the request, res will get the return code */
     res = curl_easy_perform(curl);
     /* Check for errors */
     if(res != CURLE_OK)
-      fprintf(stderr, "curl_easy_perform() failed: %s\n",
-              curl_easy_strerror(res));
+      fprintf(stderr, "curl_easy_perform() failed: %s\n", error);
 
     /* always cleanup */
     curl_easy_cleanup(curl);
