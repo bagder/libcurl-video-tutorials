@@ -23,7 +23,9 @@ Ideally, each episode will be no longer than 10-15 minutes.
 
 2. [receive data](receive-data/) by using a write callback
 
-3. CURLOPT_VERBOSE
+3. [verbose](verbose/) - enable CURLOPT_VERBOSE to get more info
+
+3. HTTP HEAD
 
 3. make the client download HTTP and FTP too
 
@@ -31,11 +33,13 @@ Ideally, each episode will be no longer than 10-15 minutes.
 
 4. limit what protocols to accept
 
-6. HTTP POST example
+6. HTTP POST
 
-7. HTTP PUT example - with read callback
+7. HTTP PUT - with read callback
 
 8. Modifying the HTTP request headers
+
+8. debug callback
 
 8. Retrieving the HTTP response code after a successful transfer
 
