@@ -14,15 +14,15 @@ Episode are 10-15 minutes long and only occasionally longer.
 
 ## Episodes
 
-1. [setup](setup/) &#128249; a makefile that builds our code (using Linux and gcc)
+1. [setup](setup/) [&#9655;](https://youtu.be/DVR8N9ob_ZY) a makefile that builds our code (using Linux and gcc)
 
-2. [global](global/) &#9655; init and cleanup
+2. [global](global/) [&#9655;](https://youtu.be/X3bq2uf0OEU) init and cleanup
 
-1. [simplest](simplest/) &#9655; possible HTTPS client code
+1. [simplest](simplest/) [&#9655;](https://youtu.be/Uha3JGPRIQs) possible HTTPS client code
 
-2. [receive data](receive-data/) &#9655; by using a write callback
+2. [receive data](receive-data/) [&#9655;](https://youtu.be/nbTaHEocCuo) by using a write callback
 
-3. [verbose](verbose/) &#9655; enable CURLOPT_VERBOSE to get more info
+3. [verbose](verbose/) [&#9655;](https://youtu.be/dSEd3i5X_gI) enable CURLOPT_VERBOSE to get more info
 
 3. [head](head/) do HTTP HEAD and something about HTTP methods
 
