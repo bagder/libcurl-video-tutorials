@@ -10,7 +10,7 @@ useful materials.
 
 All code is written using C. A reasonably modern libcurl version is assumed.
 
-Episode are 10-15 minutes long and only occasionally longer.
+Each episode is 10-15 minutes long, only occasionally longer.
 
 ## Episodes
 
