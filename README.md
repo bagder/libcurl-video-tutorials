@@ -52,6 +52,12 @@ Episode are 10-15 minutes long and only occasionally longer.
 
 13. do many parallel transfers and add new ones before all the existing are done
 
+14. feed receive data into a content parser library
+
+15. write a multi-threaded application using libcurl in multiple threads
+
+16. use the share API to share data between multiple easy handles
+
 ## Concept
 
 Each episode should be short and focused on the topic only.
