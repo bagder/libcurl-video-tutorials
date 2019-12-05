@@ -16,13 +16,13 @@ Episode are 10-15 minutes long and only occasionally longer.
 
 1. [setup](setup/) &#128249; a makefile that builds our code (using Linux and gcc)
 
-2. [global](global/) &#128249; init and cleanup
+2. [global](global/) &#9655; init and cleanup
 
-1. [simplest](simplest/) &#128249; possible HTTPS client code
+1. [simplest](simplest/) &#9655; possible HTTPS client code
 
-2. [receive data](receive-data/) &#128249; by using a write callback
+2. [receive data](receive-data/) &#9655; by using a write callback
 
-3. [verbose](verbose/) &#128249; enable CURLOPT_VERBOSE to get more info
+3. [verbose](verbose/) &#9655; enable CURLOPT_VERBOSE to get more info
 
 3. [head](head/) do HTTP HEAD and something about HTTP methods
 
