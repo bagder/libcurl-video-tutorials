@@ -50,7 +50,7 @@ int main(void)
       mc = curl_multi_poll(multi, NULL, 0, 1000, &numfds);
 
     if(mc != CURLM_OK) {
-      fprintf(stderr, "curl_multi_wait() failed, code %d.\n", mc);
+      fprintf(stderr, "curl_multi_poll() failed, code %d.\n", mc);
       break;
     }
   }
