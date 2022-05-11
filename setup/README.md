@@ -81,4 +81,4 @@ by force.
 
 The point in this episode is only that the code uses libcurl functions so we
 need to make sure the build succeeds. We don't care very much what exactly the
-code does. Move on to [simplest](../simples/) for that.
+code does. Move on to [simplest](../simplest/) for that.
