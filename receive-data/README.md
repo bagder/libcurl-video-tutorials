@@ -15,7 +15,7 @@ the
 [CURLOPT_WRITEFUNCTION](https://curl.haxx.se/libcurl/c/CURLOPT_WRITEFUNCTION.html)
 option to
 [curl_easy_setopt()](https://curl.haxx.se/libcurl/c/curl_easy_setopt.html) -
-and that gets called for every little peace of data that libcurl downloads.
+and that gets called for every little piece of data that libcurl downloads.
 
 The write callback gets a custom pointer passed to it and in this example we
 create a struct (`struct memory`) that we declare in the main function and is
